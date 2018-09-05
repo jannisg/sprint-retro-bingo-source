@@ -1,0 +1,16 @@
+= Sprint Retro Bingo
+
+This is a sample application for Flutter that allows people to start
+coding with streams and have a basic application where understanding
+where the model data comes from is easy and simple.
+
+=== PRs
+
+If you have sample lines from your own Sprints you want to include,
+as long as they are not offensive to me (i.e. not racist, sexist or -phobic),
+please send them along!
+
+=== Structure
+
+`files.txt` contains the list of possible tabs. All files are UNIX
+style separated, please no Windows line endings.
